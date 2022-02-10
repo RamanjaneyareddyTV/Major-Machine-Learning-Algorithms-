@@ -1,0 +1,49 @@
+Major Machine Learning Algorithms:
+1. Regression (Prediction)
+We use regression algorithms for predicting continuous values.
+Regression algorithms:
+Linear Regression
+Polynomial Regression
+Exponential Regression
+Logistic Regression
+Logarithmic Regression
+
+
+
+2. Classification
+We use classification algorithms for predicting a set of items’ class or category.
+Classification algorithms:
+K-Nearest Neighbors
+Decision Trees
+Random Forest
+Support Vector Machine
+Naive Bayes
+
+
+
+3. Clustering
+We use clustering algorithms for summarization or to structure data.
+Clustering algorithms:
+K-means
+DBSCAN
+Mean Shift
+Hierarchical
+
+
+4. Association
+We use association algorithms for associating co-occurring items or events.
+Association algorithms:
+Apriori
+
+
+5. Anomaly Detection
+We use anomaly detection for discovering abnormal activities and unusual cases like fraud detection.
+
+6. Sequence Pattern Mining
+We use sequential pattern mining for predicting the next data events between data examples in a sequence.
+
+7. Dimensionality Reduction
+We use dimensionality reduction for reducing the size of data to extract only useful features from a dataset.
+
+8. Recommendation Systems
+We use recommenders algorithms to build recommendation engines.
